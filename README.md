@@ -117,8 +117,8 @@ More thorough grid search (or random search) for hyperparameters, and error anal
 
 
 
-Important models oralgorithms were used in this project:
--
+### Important models were used in this project:
+
 - OneHotEncoder
 - train_test_split
 - metrics - mean_squared_error
