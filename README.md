@@ -149,7 +149,10 @@ https://data.cityofchicago.org/browse?limitTo=datasets
 
 Repository --------(https://github.com/hariramgit/PREDICTION-OF-CRIMES/blob/master/crime_regression_analysis.ipynb)
 
-- *Group project.* 
+
+
+ ## *Group project.* 
+ 
 HARIRAM
 
 PALLAVI SHARMA
