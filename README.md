@@ -136,8 +136,11 @@ More thorough grid search (or random search) for hyperparameters, and error anal
 
 
 
-### Dataset
-The dataset was obtained from here ---- (https://data.cityofchicago.org/browse?category=Public%20Safety)
+
+## Find the datasets From Chicago Data Portal here 
+https://data.cityofchicago.org/
+
+https://data.cityofchicago.org/browse?limitTo=datasets
 
 
 
@@ -148,7 +151,12 @@ Repository --------(https://github.com/hariramgit/PREDICTION-OF-CRIMES/blob/mast
 
 - *Group project.* 
 HARIRAM
+
 PALLAVI SHARMA
+
+NIKITHA
+
+
 
 * [Email](mailto:hariramhdmp@gmail.com)
 
