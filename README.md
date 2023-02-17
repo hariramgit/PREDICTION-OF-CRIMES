@@ -39,7 +39,7 @@ the value for blackPerCap for a community)
 A limitation was that the LEMAS survey was of the police departments with at least 100 
 officers, plus a random sample of smaller departments. For our purposes, communities 
 not found in both census and crime datasets were omitted. Many communities are missing 
-LEMAS data.
+LEMAS data...
 
 
 
