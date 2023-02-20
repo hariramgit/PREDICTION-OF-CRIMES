@@ -44,9 +44,11 @@ LEMAS data...
 
 
 ## Objective
+#### The main purpose of this project was to analyze and predict crime rates in various communities. The data was preprocessed by normalizing all numeric data into a decimal range using an unsupervised equal-interval binning method to retain the distribution and skew of attributes while preserving rough ratios of values within an attribute. The goal was to build a model to understand the relationships between different attributes and their impact on crime rates, despite limitations in the data, such as missing LEMAS data for some communities. By analyzing this data, the project aimed to provide insights that could be used to develop better crime prevention strategies and improve overall public safety.
+
 The project had **2 distinct objectives**:
-1. Derive **statistically significant insights** from a database.
-2. Model a **regression analysis** for a variable (in this project, we have chosen to do use the linear regression to predict the probability of a crime to happen in a given date with some given circunstances.)
+1. Derive statistically significant insights from a database.
+2. Model a regression analysis for a variable (in this project, I have chosen to do use linear regression to predict the probability of a crime happening on a given date with some given circumstances.)
 
 
 
@@ -69,14 +71,13 @@ The project had **2 distinct objectives**:
 - correlation between target variable and all features
 - Preprocessing the data
 - Encoding 
-- spliting the data
+- splitting the data
 - Model selection and implementing the best model
 - Feature selection
 - Regression using dimensionality reduction on features
-- Models used : Linear Regression, Support Vector Regression using Grid Search, K Nearest Neighbors using Grid Search, Gradient Boosting using Grid Search, MLP using Grid Search
-- Performing of best model on test set
-- Predicting and visualing the results...
-
+- Models used: Linear Regression, Support Vector Regression using Grid Search, K Nearest Neighbors using Grid Search, Gradient Boosting using Grid Search, MLP using Grid Search
+- Performing of the best model on the test set
+- Predicting and visualising the results...
 
 
 
